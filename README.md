@@ -23,3 +23,7 @@ Surprise Library
 
 
 for surprise library you have to install "VS Code" into your PC
+
+APP LINK
+
+https://mahesh-renkuntla-book-recommendation-system-project--app-r7cvta.streamlitapp.com/
